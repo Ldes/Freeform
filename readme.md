@@ -1,36 +1,43 @@
-##What is this?
+######Переводим solspace freeform.
 
-This repository contains supplemental files for the related commercial add-on from [Solspace, Inc.](http://solspace.com). This repository does not contain an [ExpressionEngine](http://http://expressionengine.com) add-on.
+##Что это за репозиторий такой?
 
-After seeing EllisLab release [ExpressionEngine language files](https://github.com/EllisLab/) publicly to customers to translate and submit pull requests, we wanted to do the same for our add-ons. We are making this data available so that end users may fork, adjust, and submit pull requests containing translations or updates. 
- 
+Данный репозиторий не содержит самого дополнения к [ExpressionEngine](http://http://expressionengine.com), лишь дополнительные файлы к коммерческому дополнению от [Solspace, Inc.](http://solspace.com)
 
-##Using the code in this repo
+Увидев, что EllisLab решила локализовать [ExpressionEngine language files](https://github.com/EllisLab/) таким способом - мы подумали, что это отличная идея, поступили так-же. Теперь можно тянуть оригиналы языковых пакетов к нашим модулям, переводить и делаиться с авторами модуля. И это круто! 
 
-This repository might contain translations and examples that we did deem necessary to include with our standard add-ons download but wanted to leave available to those who need it.
+##Использование кода данного репозитория
 
-To add a language file to your add-on from this repo, download the repo as a zip file, unzip it and copy the desired language folder into `./system/expressionengine/third_party/ADDON_NAME/language/`.
+Не факт, что Ваш перевод попадёт в наш релиз, но мы оставим его тут, может кому пригодится.
 
-##How to submit translations and updates
+Чтобы установить языковой пакет в expressionEngine - необходимо скачать архив, распаковать и кинуть в соответствующую папку на сервере:  `./system/expressionengine/third_party/_имя_модуля_/language/`.
 
-Fork this repository, clone it to your computer, then make any adjustments and push it back to your github account. When you are satisfied with your adjustments, submit a pull request to us and we will discuss with you pulling the changes into our official repo.
+##Как отправить перевод авторам модуля
 
-##Pull Request Disclaimer
+Форкай, качай к себе, дополняй или исправляй, кидай обратно нам ;) Мы пообщаемся, если всё ок - добавим в свой репозиторий и все буду счастливы.
 
-By submitting pull requests with altered or new code to Solspace, Inc., you are agreeing that Solspace, Inc. will retain all copyright to accepted adjustments via pull requests and therefore has permission to redistribute it.
+##Ответственность авторов перевода
 
-We realize that this sounds very hard-nosed, but we need a legal disclaimer and protective info to mitigate legal issues for either party involved. We love you guys and want it all to work for the best.
+Отправляя данный перевод компании Solspace, вы признаёте её авториские права на данный материал, даёте право на его распространение.
 
-##Accuracy Disclaimer
+Мы понимаем, что это немного странно, но необходимо во избежании юридических проблем. Мы любим Вас, ребята.
 
-For any accepted translation pull request, we can only trust that the language translation is accurate, since we don't speak all the languages of the world. We apologize for any mistranslated items.
+##Отказ от ответственности за точность перевода.
 
-##Release Information
+Мы не знаем всех языков мира, принимаем перевод от третьих лиц "как есть", приносим свои извенения, если что не так.
 
-The data here-in is copyright &copy; Solspace, Inc., is not open source, and may not be used other than with the accompanying Solspace add-on. You do not have permission to redistribute or sell any of the data in this repository or any adjusted data from a forked version of this repository.
+##О релизе
 
-Due to the nature of the translations and them being completed by third parties, we cannot guarantee their accuracy.
+Всё, что есть в данном репозитории является собственностью &copy; Solspace, Inc., не явлеятся открытым исходным кодом, может быть использовано исключительно как дополнение к модулю Freeform от компании Solspace. Запрещено извлекать выгоду из материалов, данного репозитория, его форков.
 
-##Acknowledgement
+С учётом того, что перевод осуществяется третьей стороной - за качество его никто не отвечает. Совсем никто.
 
-We would like to thank our customers and code submitters for their hard work and patronage. Without you we would not be in business. Thank you. ;)
+##Заключение от Solspace
+
+Мы благодарим наших клиентов и разработчиков, за их старания. Что бы мы без Вас делали, ребята ;)
+
+##Заключение от FDCore
+
+Русских пользоваетелей у движка становится всё больше, заслуженно. Мы подумали, что было бы не плохо поспособствовать этому процессу, а тут сами ElisLab да Solspace поспособствовали.
+
+Русские разработчики сайтов на EE, объединяйтесь. Вместе мы делаем мир чуточку лучше :)
