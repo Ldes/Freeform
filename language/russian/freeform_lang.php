@@ -61,7 +61,7 @@ $lang = array(
 // -------------------------------------
 
 'no_available_composer_forms' =>
-"No Freeform forms with Composer layouts are available.",
+"Пока не создано форм, с влючённым композером",
 
 'choose_composer_form' =>
 "Choose a Freeform Composer Form to output:",
@@ -71,204 +71,205 @@ $lang = array(
 //----------------------------------------
 
 'forms' =>
-"Forms",
+"Формы",
 
 'fields' =>
-"Fields",
+"Поля",
 
 'site_id' =>
-"Site ID",
+"Сайт",
 
 'notifications' =>
-"Notifications",
+"Уведомления",
 
 'templates' =>
-"Templates",
+"Шаблоны",
 
 'composer_templates' =>
-"Composer Templates",
+"Шаблоны композера",
 
 'permissions' =>
-"Permissions",
+"Права доступа",
 
 'utilities' =>
-"Utilities",
+"Утилиты",
 
 'preferences' =>
-"Preferences",
+"Настройки",
 
 'export' =>
-"Export",
+"Экспорт",
 
 'code_pack' =>
 "Code Pack",
 
 'help' =>
-"Help",
+"Помошь",
 
 'online_documentation' =>
-"Online Documentation",
+"Онлайн документация",
 
 'id' =>
-"ID",
+"Идентификатор",
 
 // -------------------------------------
 //	Multi site
 // -------------------------------------
 
 'show_from_all_sites' =>
-"Show items from all sites",
+"Показывать данные со всех сайтов",
 
 'use_one_set_of_prefs' =>
-"Use one set of preferences for all sites",
+"Использовать общие настройки для всех сайтов",
 
 'default_show_all_sites' =>
-"Show data from all sites by default",
+"По умолчанию показывать данные со всех сайтов",
 
 'global_prefs' =>
-"Global Preferences",
+"Глобальные настройки",
 
 'site_prefs_for' =>
 "Site Prefs For:",
+"Настройки для сайта:",
 
 //----------------------------------------
 //  Buttons
 //----------------------------------------
 
 'save' =>
-"Save",
+"Сохранить",
 
 'delete_selected' =>
-"Delete Selected",
+"Удалить выбранные",
 
 'create_one_now' =>
-"Create one now.",
+"Создать одну.",
 
 'dialog_ok' =>
-"OK",
+"Ок",
 
 'dialog_cancel' =>
-"Cancel",
+"Отмена",
 
 'dialog_continue' =>
-"Continue",
+"Продолжить",
 
 'dialog_continue_anyway' =>
-"Continue Anyway",
+"Всёравно продолжить",
 
 "yes" =>
-"Yes",
+"Да",
 
 "no" =>
-"No",
+"Нет",
 
 'notice' =>
-"Notice",
+"Уведомление",
 
 // -------------------------------------
 //	form statuses
 // -------------------------------------
 
 'pending' =>
-"Pending",
+"В ожидании",
 
 'open' =>
-"Open",
+"Открыта",
 
 'closed' =>
-"Closed",
+"Закрыта",
 
 'status' =>
-"Status",
+"Статус",
 
 // -------------------------------------
 // forms
 // -------------------------------------
 
 'no_forms' =>
-"No Forms currently exist.",
+"Пока нет ни одной формы.",
 
 'no_forms_legacy' =>
-"No Forms currently exist, however, since you upgraded from a previous version of Freeform, you can migrate your old collections now.",
+"Пока нет ни одной формы. Во время обновления можно оставить предидущие коллекции форм.",
 
 'migrate_collections' =>
-"Migrate your old collections",
+"Загрузка предидущих коллекций",
 
 'create_new_form_now' =>
-"Create a new form now.",
+"Создать новую форму.",
 
 'forms' =>
-"Forms",
+"Формы",
 
 'form' =>
-"Form",
+"Форма",
 
 'submissions' =>
-"Submissions",
+"Отправленные сообщения",
 
 'moderate' =>
-"Moderate",
+"Модерировать",
 
 'actions' =>
-"Actions",
+"Действия",
 
 'edit' =>
-"Edit",
+"Редактировать",
 
 'in_composer' =>
 "in composer",
 
 'settings' =>
-"Settings",
+"Настройки",
 
 'duplicate' =>
-"Duplicate",
+"Дублировать",
 
 'delete' =>
-"Delete",
+"Удалить",
 
 // -------------------------------------
 //	create forms
 // -------------------------------------
 
 'edit_form_success' =>
-"Form Saved",
+"Форма сохранена",
 
 'duplicated_from_' =>
-"Inserted data duplicated from:",
+"Взяты данные из:",
 
 'create_form' =>
-"Create Form",
+"Создать форму",
 
 'update_form' =>
-"Update Form",
+"Обновить форму",
 
 'create_form_description' =>
 "Fill out the basic information for a Form below. You can then choose to build your form in the Composer drag and drop interface, or in standard ExpressionEngine templates with Freeform tags.",
 
 'new_form' =>
-"New Form",
+"новая форма",
 
 'form_label' =>
-"Form Label",
+"Название формы",
 
 'form_label_desc' =>
-"This is the full name of the Form.<br/>Example: Contact Us",
+"Полное название формы.<br/>Пример: Обратная связь",
 
 'form_name' =>
-"Form Name",
+"Имя формы",
 
 'form_name_desc' =>
-"Short name of the form. Single word, no spaces, underscores allowed. Example: contact_us",
+"Краткое имя формы. Одно слово, без пробелов, разрешены нижние подчёркивания в качестве разделителй слов, только латинские симыолы. Пример: contact_us",
 
 'form_description_desc' =>
-"Describe the form.<br/>Helpful for keeping track of the purpose of the form.",
+"Опишите форму.<br/> Помогает быстро понять, для чего данная форма предназначена.",
 
 'default_status' =>
-"Default Status",
+"Статус сообщения по умолчанию",
 
 'default_status_desc' =>
-"All form submissions will be set to this status unless overridden in the tag params. A status of pending (default)",
+"Все сообщения отправленные через данную форму буду иметь указанный статус, если не переопределено в теге формы в шаьлоне сайта. По умолачнию статус &laquo;В одижании&raquo;",
 
 'design_template' =>
 "Design Template",
