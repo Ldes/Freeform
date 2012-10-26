@@ -64,7 +64,7 @@ $lang = array(
 "Пока не создано форм, с влючённым композером",
 
 'choose_composer_form' =>
-"Choose a Freeform Composer Form to output:",
+"Выбирете шаблон визуального редактора форм:",
 
 //----------------------------------------
 //  Main Menu
@@ -86,7 +86,7 @@ $lang = array(
 "Шаблоны",
 
 'composer_templates' =>
-"Шаблоны композера",
+"Шаблоны визуального редактора форм",
 
 'permissions' =>
 "Права доступа",
@@ -101,7 +101,7 @@ $lang = array(
 "Экспорт",
 
 'code_pack' =>
-"Code Pack",
+"Примеры кода",
 
 'help' =>
 "Помошь",
@@ -217,7 +217,7 @@ $lang = array(
 "Редактировать",
 
 'in_composer' =>
-"in composer",
+"в визуальном редакторе формы",
 
 'settings' =>
 "Настройки",
@@ -245,7 +245,7 @@ $lang = array(
 "Обновить форму",
 
 'create_form_description' =>
-"Fill out the basic information for a Form below. You can then choose to build your form in the Composer drag and drop interface, or in standard ExpressionEngine templates with Freeform tags.",
+"Заполните основную информацию о форме. Вы можете настроить вывод формы используя графический редактор формы, или используя теги ExpressionEngine, выбрав поля формы, вписав их названия в шаблон страницы.",
 
 'new_form' =>
 "новая форма",
@@ -272,22 +272,22 @@ $lang = array(
 "Все сообщения отправленные через данную форму буду иметь указанный статус, если не переопределено в теге формы в шаьлоне сайта. По умолачнию статус &laquo;В одижании&raquo;",
 
 'design_template' =>
-"Design Template",
+"Шаблон дизайна",
 
 'design_template_desc' =>
-"Determines the look of the form.",
+"Определить внешний вид формы.",
 
 'enable' =>
-"Enable",
+"Активировать",
 
 'notify_admin' =>
-"Notify Admin",
+"Известить администратора",
 
 'notify_user' =>
-"Notify User",
+"Известить пользователя",
 
 'notify_admin_desc' =>
-"Enable admin notifications to automatically email the site admin when this form gets a submission.",
+"Активировать извещения администратора о полученном сообщении через данную форму.",
 
 'notify_user_desc' =>
 "User notifications require a field that is accepting an email as input. If the user inputs an email, then they will be notified of their submission. If no fields are currently available, you can edit this field later to add one or override the field name in the template parameters.",
@@ -314,13 +314,13 @@ $lang = array(
 "Email notification template that goes to the site administrators when a form is filled out.",
 
 'continue' =>
-"Continue",
+"Продолжить",
 
 'continue_desc' =>
 "Save this form and continue to composer to build it.",
 
 'save' =>
-"Save",
+"Сохранить",
 
 'save_desc' =>
 "Build this form later in an ExpressionEngine template.",
@@ -338,22 +338,22 @@ $lang = array(
 "Code this form in an ExpressionEngine template",
 
 'composer' =>
-"Composer",
+"Конструктор",
 
 'template' =>
-"Template",
+"Шаблон",
 
 'form_type' =>
-"Form Type",
+"Тип формы",
 
 'form_fields' =>
-"Form Fields",
+"Поля формы",
 
 'form_fields_desc' =>
 "You need to include form fields with each form in order to collect data.",
 
 'auto_generate_name' =>
-"Auto Generate Name",
+"Генерировать имя автоматически",
 
 'click_drag_add_remove_sort'=>
 "Click or drag to add and remove fields. Drag the fields in the right column to sort. The fields in the right column will be available in this form on output and they will display in this order when using the {all_form_fields} tag pair.",
@@ -652,42 +652,42 @@ $lang = array(
 "Edit Field Layout",
 
 'hidden_fields' =>
-"Hidden Fields",
+"Скрытые поля",
 
 'shown_fields' =>
-"Shown Fields",
+"Отображаемые поля",
 
 'click_to_add' =>
-"click to add",
+"добавить",
 
 'drag_to_reorder' =>
 "drag to reorder",
 
 'save_this_layout_for' =>
-"Save this layout for",
+"Сохранить шаблон для",
 
 'just_me' =>
-"Just Me",
+"Только мне",
 
 'everyone' =>
-"Everyone",
+"Всем",
 
 // -------------------------------------
 //	sub layouts
 // -------------------------------------
 
 'field_entry_view' =>
-"Entries",
+"Записи",
 
 // -------------------------------------
 //	export
 // -------------------------------------
 
 'export' =>
-"Export",
+"Экспорт",
 
 'txt' =>
-"Text",
+"Текст",
 
 'xml' =>
 "XML",
@@ -699,16 +699,16 @@ $lang = array(
 "JSON",
 
 'export_as' =>
-"Export as",
+"Экспортировать как",
 
 'export_entries' =>
-"Export Entries",
+"Экспортировать записи",
 
 'shown_fields' =>
-"Shown Fields",
+"Отображаемые поля",
 
 'all_fields' =>
-"All Fields",
+"Все поля",
 
 // -------------------------------------
 //	multi-item rows for fields
@@ -758,23 +758,23 @@ $lang = array(
 // -------------------------------------
 
 'type' =>
-"Type",
+"Тип",
 
 'label' =>
-"Label",
+"Метка",
 
 'name' =>
-"Name",
+"Имя",
 
 'description' =>
-"Description",
+"Описание",
 
 // -------------------------------------
 //	field types
 // -------------------------------------
 
 'fieldtypes' =>
-"Field types",
+"Типы полей",
 
 'no_fieldtypes' =>
 "No field types available.<br/>What, you deleted all of the default ones, too? O_o",
@@ -795,31 +795,31 @@ $lang = array(
 "View the Freeform Field type development documentation.",
 
 'freeform_fieldtype_name' =>
-"Freeform Field type Name",
+"Название типа поля",
 
 'description' =>
-"Description",
+"Описание",
 
 'version' =>
-"Version",
+"Версия",
 
 'status' =>
-"Status",
+"Статус",
 
 'action' =>
-"Action",
+"Действие",
 
 'install' =>
-"Install",
+"Установить",
 
 'uninstall' =>
-"Uninstall",
+"Удалить",
 
 'not_installed' =>
-"Not Installed",
+"Не установлено",
 
 'installed' =>
-"Installed",
+"Установлено",
 
 'fieldtype_installed' =>
 "Field type Installed",
@@ -928,13 +928,13 @@ $lang = array(
 // -------------------------------------
 
 'default_file_name' =>
-"File Upload",
+"Загрузка файла",
 
 'default_file_desc' =>
 "A field that allows a user to upload files.",
 
 'file_upload_location' =>
-"File Upload Location",
+"Расположение загружаемых файлов",
 
 'file_upload_location_desc' =>
 "Where should the files be uploaded? You can use the standard EE upload directory configuration to specify new upload paths.",
@@ -949,13 +949,13 @@ $lang = array(
 "You have no file upload preferences set and you need at least one location so you can upload files with this field.",
 
 'specify_upload_location' =>
-"Specify my own upload location",
+"Установить собственную дерикторию для загрузки файлов",
 
 'full_path_to_folder' =>
 "Full path to writable folder",
 
 'system_information' =>
-"System Information",
+"Системная информация",
 
 'system_information_desc' =>
 "This is helpful information from your php.ini settings. These cannot be changed in this fields options, but is changed in your php.ini file.",
@@ -967,19 +967,19 @@ $lang = array(
 "Maximum files that can be uploaded in a single submission:",
 
 'allowed_upload_count' =>
-'Allowed upload count',
+'Количество разрешённых приложений',
 
 'allowed_upload_count_desc' =>
 "Maximum quantity of files that can be uploaded in a single submission.<br/><br/><strong class='ss_notice'>The maximum number in this drop-down is the PHP system settings for maximum files that can be uploaded in a single submission and cannot be overridden by using multiple file field types.</strong>",
 
 'overwrite_on_edit' =>
-'Overwrite On Edit',
+'Перезаписать при редактировании',
 
 'overwrite_on_edit_desc' =>
 'When editing an entry and new files are uploaded, replace the previous set of uploaded files with the new.',
 
 'disable_xss_clean' =>
-"Disable XSS Clean",
+"ОТкобчить проверку XSS",
 
 'disable_xss_clean_desc' =>
 "This option allows you to disable system XSS cleaning just for this file upload field in case you are having issues with user uploads being incorrectly blocked.",
@@ -988,35 +988,35 @@ $lang = array(
 "File Field Uploads",
 
 'no_files_uploaded' =>
-"No Files Uploaded",
+"Нет загруженных файлов",
 
 //file size abbreviation for KiloBytes
 'kb' =>
 "KB",
 
 'filesize' =>
-'File Size',
+'Размер файла',
 
 'filename' =>
-'File Name',
+'Имя файла',
 
 'file_location' =>
-'File Location',
+'Расположение файла',
 
 'files_deleted' =>
-"File(s) Deleted",
+"Файл(ы) удалены",
 
 'view_files' =>
-"View Files",
+"Просмотр файлов",
 
 'allowed_file_types' =>
-"Allowed File Types",
+"Разрешённые типы полей",
 
 'allowed_file_types_desc' =>
 "Which file types would you like to allow? Put the file extension of each acceptable filetype separated by a pipe. e.g. 'jpg|png|gif'. Simply putting a star, '*', will allow all files types available.",
 
 'email_attachments' =>
-"Email Attachments",
+"Приложения к письму",
 
 'email_attachments_desc' =>
 "Attach the file to email notifications? There are 4 times of notifications.<br/><br/> - Admin<br/> - User<br/> - Dynamic Recipients<br/> - User Inputted Recipients<br/>",
@@ -1025,13 +1025,13 @@ $lang = array(
 "Dynamic Recipients",
 
 'user_recipients' =>
-"User Recipients",
+"Получатели, определённые пользователем",
 
 'cannot_find_file' =>
-"Cannot find file",
+"Файл не обнаружен",
 
 'upload_directory_name' =>
-"Upload Directory Name",
+"Имя дериктори загрузки приложения на сервер",
 
 // -------------------------------------
 //	MultiSelect
@@ -1156,37 +1156,37 @@ $lang = array(
 "New Field",
 
 'fields' =>
-"Fields",
+"Поля",
 
 'field' =>
-"Field",
+"Поле",
 
 'field_type' =>
-"Field Type",
+"Тип поля",
 
 'field_label' =>
-"Field Label",
+"Заголовок поля",
 
 'field_label_desc' =>
 "The full name of the field. Example: First Name.",
 
 'field_name' =>
-"Field Name",
+"Имя поля",
 
 'field_name_desc' =>
 "Short name of the field. One word, no spaces, underscores allowed. Example: first_name",
 
 'field_order' =>
-"Field Order",
+"Порядок полей",
 
 'field_order_desc' =>
-"Field Order",
+"Порядок полей",
 
 'field_length' =>
-"Field Length",
+"Длина данных в поле",
 
 'field_length_desc' =>
-"Maximum length of inputed data.",
+"Максимальная длина введённых в поле данных.",
 
 'field_display_options' =>
 "Field Display Options",
@@ -1195,7 +1195,7 @@ $lang = array(
 "Choose if this field should display by default throughout the module. You can further customize field layouts per form, per user group on the submissions and moderation page.",
 
 'editable' =>
-"Field is editable?",
+"Поле активно?",
 
 'submissions_page' =>
 "Show field on submissions CP page?",
@@ -1216,7 +1216,7 @@ $lang = array(
 "Enter/Update Field Information below. You can use this field in Freeform Composer or templates with the Freeform template tags.",
 
 'generate' =>
-"Generate",
+"Генерировать",
 
 'field_options' =>
 "Field Options",
@@ -1447,22 +1447,22 @@ Here are the details:
 //----------------------------------------
 
 'collections' =>
-"Collections",
+"Коллекции",
 
 'collections_desc' =>
 "These collections have entries that have not yet been migrated to Freeform 4.",
 
 'empty_fields' =>
-"Empty Fields",
+"Пустые поля",
 
 'migrate_empty_fields' =>
-"Yes, migrate empty fields",
+"Да, перенсти пустые поля",
 
 'migrate_empty_fields_desc' =>
 "It is most likely not necessary to migrate fields that have never contained data.",
 
 'migrate_attachments' =>
-"Yes, migrate attachments",
+"Да, перенсти приложения к письмам",
 
 'migrate_attachments_desc' =>
 "You may have allowed people submitting your forms to attach files to their submissions. You can migrate those attachments to your new forms. Custom file upload fields will be created for you.",
@@ -1471,50 +1471,50 @@ Here are the details:
 "You may have allowed people submitting your forms to attach files to their submissions. You can migrate those attachments to your new forms. Custom file upload fields will be created for you. However, to do so, you must install the File Upload Freeform field type first.",
 
 'migration_in_progress' =>
-"Migration in progress",
+"Перенос в процессе",
 
 'migration_complete' =>
-"Migration complete",
+"Перенос завершён",
 
 'nothing_to_migrate' =>
-"There are no collections to migrate.",
+"Коллекций для переноса не найдено.",
 
 'no_collections' =>
-"No collections were found for migration.",
+"Коллекций для переноса не найдено.",
 
 'empty_form_name' =>
-"The form name was empty.",
+"Имя поля не задано.",
 
 'missing_data_for_field_creation' =>
-"Unable to create a field due to some missing data.",
+"Не удалось создать поле, в следствии отсутствия некторых данных.",
 
 // -------------------------------------
 // 	Language for permissions
 // -------------------------------------
 
 "permission" =>
-"permission",
+"права доступа",
 
 "save_permissions" =>
-"Save Permissions",
+"Сохранить настройки прав доступа",
 
 'permissions_updated' =>
-"Permissions Updated",
+"Настройки прав доступа обновлены",
 
 'allow_all' =>
-"Allow All",
+"Разрешить всем",
 
 'deny_all' =>
-"Deny All",
+"Запретить всем",
 
 'by_group' =>
-"By Group",
+"По группе пользователей",
 
 'allow' =>
-"Allow",
+"Разрешить",
 
 'deny' =>
-"Deny",
+"Запретить",
 
 'permissions_description' =>
 "These permissions allow and disallow member groups from viewing certain tabs in the module control panel. If a group is denied from a tab and attempts to access it manually they will be redirected. If the group has permission to no tabs, they will be redirected to the ExpressionEngine Control Panel home page. Super Admins always have access regardless of these settings.",
@@ -1523,10 +1523,10 @@ Here are the details:
 "By checking global permissions, you will set one set of permissions for all sites.",
 
 'use_global_permissions' =>
-"Use Global Permissions",
+"Использовать глобальный настройки прав доступа",
 
 'default_permissions_new_group' =>
-"Default Permissions For New Groups",
+"Права по умолчанию для новых групп пользователей",
 
 'default_permissions_new_group_desc' =>
 "Set the default permission for newly added member groups for any pages set to 'By Group'.",
@@ -1539,25 +1539,25 @@ Here are the details:
 // -------------------------------------
 
 "preferences" =>
-"Preferences",
+"Настройки",
 
 "preference" =>
-"Preference",
+"Настройка",
 
 "value" =>
-"Value",
+"Значение",
 
 "save_preferences" =>
-"Save Preferences",
+"Сохранить настройки",
 
 'preferences_updated' =>
-"Preferences Updated",
+"Настройки обновлены",
 
 'use_solspace_mcp_style' =>
-"Use Solspace Control Panel Style",
+"Использовать оформление панели управления от Solspace",
 
 'use_solspace_mcp_style_desc' =>
-"Custom Solspace Control Panel UI designed by <a href='http://ericmillerdesign.com/' target='_blank'>Eric Miller Design</a>. <br/>Works on Chrome, Safari, Firefox, and Internet Explorer 9+.",
+"Оформление разработано в студии <a href='http://ericmillerdesign.com/' target='_blank'>Eric Miller Design</a>. <br/>Поддерживает Chrome, Safari, Firefox, и Internet Explorer 9+.",
 
 'censor_using_ee_word_list' =>
 "Use ExpressionEngine Word Censoring",
@@ -1566,46 +1566,46 @@ Here are the details:
 "",
 
 'spam_keyword_ban_enabled' =>
-"Ban keywords in fields",
+"Блокировать сообщения по указанным словам в поле (чёрный список)",
 
 'spam_keyword_ban_enabled_desc' =>
-"Checks inputs against the keywords set below and denies the submission if the keywords are found.",
+"Отклонение сообщений содержащих слова из чёрного списка.",
 
 'spam_keywords' =>
-"Ban Keywords",
+"Заблокированные слова",
 
 'spam_keywords_desc' =>
-"Separate with newline, use asterisk for wild card.",
+"Слова указываются с новой строки. Для создания маски можно использовать символ звёздочки &laquo;<strong>*</strong>&raquo;.",
 
 'spam_keyword_ban_message' =>
-"Keyword Ban Message",
+"Сообщение при блокировке сообщения по причине наличия слов из чёрного списка",
 
 'spam_keyword_ban_message_desc' =>
-"The message shown to users when banned keywords are submitted.",
+"Сообщение пользователю, отправившиму сообщение, содержащее слова из чёрного списка.",
 
 'form_statuses' =>
-"Custom Form Statuses",
+"Настраеваемые статусы форм",
 
 'form_statuses_desc' =>
-"Custom statuses for form entries beside the defaults of: Pending, Open, Closed.",
+"Дополнительные статус сообщений, по умолчанию существуют следующие статусы: В ожидании, Открыто, Закрыто.",
 
 'max_user_recipients' =>
-'Maximum User Recipients',
+'Максимальное количество получателей пользовательского уведомления',
 
 'max_user_recipients_desc' =>
 'Maximum amount of recipients for user inputed email contacts. If the maximum is exceeded, an error is shown to the user.',
 
 'spam_count' =>
-'Spam Count',
+'Количество сообщений, от пользователя',
 
 'spam_count_desc' =>
-'Maximum emails per IP Address within the Spam Interval time period.',
+'Максимальный период между сообщениями с одного IP адреса. Если сообщений за установленное время больше - отклонять как спам',
 
 'spam_interval' =>
-'Spam interval',
+'Интервал между сообщениями',
 
 'spam_interval_desc' =>
-'Time interval reset for maximum emails (Spam Count) sent (in Minutes)',
+'Отрезок времени, за кторый можно отправлять установленное выше количество сообщений  sent (в минутах)',
 
 'allow_user_field_layout' =>
 "Allow User Field Layouts",
@@ -1614,10 +1614,10 @@ Here are the details:
 "Allow users to adjust their own field layout preferences in the entries area rather than having a global set defined by admins.",
 
 'enable_spam_prevention' =>
-"Enable Spam Prevention",
+"Активировать защиту от спама",
 
 'enable_spam_prevention_desc' =>
-"Enable Spam Prevention based on the Spam Count and Spam Interval preferences.",
+"Активировать защиту от спама по установленным выше параметрам интервала/количетва сообщений.",
 
 'default_show_all_site_data' =>
 "Show Data from All Sites",
