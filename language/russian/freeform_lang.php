@@ -2071,203 +2071,203 @@ Saskatchewan (SK)
 Yukon (YT)",
 
 'list_of_countries' => "
-Afghanistan
-Albania
-Algeria
-Andorra
-Angola
-Antigua & Deps
-Argentina
-Armenia
-Australia
-Austria
-Azerbaijan
-Bahamas
-Bahrain
-Bangladesh
-Barbados
-Belarus
-Belgium
-Belize
-Benin
-Bhutan
-Bolivia
-Bosnia Herzegovina
-Botswana
-Brazil
-Brunei
-Bulgaria
-Burkina
-Burundi
-Cambodia
-Cameroon
-Canada
-Cape Verde
-Central African Rep
-Chad
-Chile
-China
-Colombia
-Comoros
-Congo
-Congo {Democratic Rep}
-Costa Rica
-Croatia
-Cuba
-Cyprus
-Czech Republic
-Denmark
-Djibouti
-Dominica
-Dominican Republic
-East Timor
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Ethiopia
-Fiji
-Finland
-France
-Gabon
-Gambia
-Georgia
-Germany
-Ghana
-Greece
-Grenada
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
-Haiti
-Honduras
-Hungary
-Iceland
-India
-Indonesia
-Iran
-Iraq
-Ireland {Republic}
-Israel
-Italy
-Ivory Coast
-Jamaica
-Japan
-Jordan
-Kazakhstan
-Kenya
-Kiribati
-Korea North
-Korea South
-Kosovo
-Kuwait
-Kyrgyzstan
-Laos
-Latvia
-Lebanon
-Lesotho
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
-Macedonia
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Mauritania
-Mauritius
-Mexico
-Micronesia
-Moldova
-Monaco
-Mongolia
-Montenegro
-Morocco
-Mozambique
-Myanmar, {Burma}
-Namibia
-Nauru
-Nepal
-Netherlands
-New Zealand
-Nicaragua
-Niger
-Nigeria
-Norway
-Oman
-Pakistan
-Palau
-Panama
-Papua New Guinea
-Paraguay
-Peru
-Philippines
-Poland
-Portugal
-Qatar
-Romania
-Russian Federation
-Rwanda
-St Kitts & Nevis
-St Lucia
-Saint Vincent & the Grenadines
-Samoa
-San Marino
-Sao Tome & Principe
-Saudi Arabia
-Senegal
-Serbia
-Seychelles
-Sierra Leone
-Singapore
-Slovakia
-Slovenia
-Solomon Islands
-Somalia
-South Africa
-South Sudan
-Spain
-Sri Lanka
-Sudan
-Suriname
-Swaziland
-Sweden
-Switzerland
-Syria
-Taiwan
-Tajikistan
-Tanzania
-Thailand
-Togo
-Tonga
-Trinidad & Tobago
-Tunisia
-Turkey
-Turkmenistan
-Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-United States
-Uruguay
-Uzbekistan
-Vanuatu
-Vatican City
-Venezuela
-Vietnam
-Yemen
-Zambia
-Zimbabwe",
+Афганистан
+Албания
+Алжир
+Андорра
+Ангола
+Антигуа
+Аргентина
+Армения
+Австралия
+Австрия
+Азербайджан
+Багамские острова
+Бахрейн
+Бангладеш
+Барбадос
+Беларусь
+Бельгия
+Белиз
+Бенин
+Бутан
+Боливия
+Босния и Герцеговина
+Ботсвана
+Бразилия
+Бруней
+Болгария
+Буркина
+Бурунди
+Камбоджа
+Камерун
+Канада
+Кабо-Верде
+Центрально-Африканская республика
+Чад
+Чили
+Китай
+Колумбия
+Коморские острова
+Конго
+Конго {Демократическая республика}
+Коста-Рика
+Хорватия
+Куба
+Кипр
+Чешская республика
+Дания
+Джибути
+Доминика
+Доминиканская Республика
+Восточный Тимор
+Эквадор
+Египет
+Сальвадор
+Экваториальная Гвинея
+Эритрея
+Эстония
+Эфиопия
+Фиджи
+Финляндия
+Франция
+Габон
+Гамбия
+Грузия
+Германия
+Гана
+Греция
+Гренада
+Гватемала
+Гвинея
+Гвинея-Бисау
+Гайана
+Гаити
+Гондурас
+Венгрия
+Исландия
+Индия
+Индонезия
+Иран
+Ирак
+Ирландия {республика}
+Израиль
+Италия
+берег Слоновой Кости
+Ямайка
+Япония
+Иордания
+Казахстан
+Кения
+Кирибати
+Северная Корея
+Южная Корея
+Косово
+Кувейт
+Киргизия
+Лаос
+Латвия
+Ливан
+Лесото
+Либерия
+Ливия
+Лихтенштейн
+Литва
+Люксембург
+Македонии
+Мадагаскар
+Малави
+Малайзия
+Мальдивы
+Мали
+Мальта
+Маршалловы острова
+Мавритания
+Маврикий
+Мексика
+Микронезия
+Молдова
+Монако
+Монголия
+Черногория
+Марокко
+Мозамбик
+Мьянма {Бирма}
+Намибия
+Науру
+Непал
+Нидерланды
+Новая Зеландия
+Никарагуа
+Нигер
+Нигерия
+Норвегия
+Оман
+Пакистан
+Палау
+Панама
+Папуа-Новая Гвинея
+Парагвай
+Перу
+Филиппины
+Польша
+Португалия
+Катар
+Румыния
+Российская Федерация
+Руанда
+Сент-Китс и Невис
+Сент-Люсия
+Сент-Винсент и Гренадины
+Самоа
+Сан-Марино
+Сан-Томе и Принсипи
+Саудовская Аравия
+Сенегал
+Сербия
+Сейшельские острова
+Сьерра-Леоне
+Сингапур
+Словакия
+Словения
+Соломоновы острова
+Сомали
+ЮАР
+Южный Судан
+Испания
+Шри Ланка
+Судан
+Суринам
+Свазиленд
+Швеция
+Швейцария
+Сирия
+Тайвань
+Таджикистан
+Танзания
+Таиланд
+Того
+Тонга
+Тринидад и Тобаго
+Тунис
+Турция
+Туркменистан
+Тувалу
+Уганда
+Украина
+Объединенные Арабские Эмираты
+Великобритания
+Соединенные Штаты
+Уругвай
+Узбекистан
+Вануату
+Ватикан
+Венесуэла
+Вьетнам
+Йемен
+Замбия
+Зимбабве",
 
-// END
+// Конец
 ''=>''
 );
