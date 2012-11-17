@@ -143,7 +143,7 @@ $lang = array(
 "Удалить выбранные",
 
 'create_one_now' =>
-"Создать одну.",
+"Создать.",
 
 'dialog_ok' =>
 "Ок",
@@ -205,7 +205,7 @@ $lang = array(
 "Форма",
 
 'submissions' =>
-"Отправленные сообщения",
+"Полученные сообщения",
 
 'moderate' =>
 "Модерировать",
@@ -236,7 +236,7 @@ $lang = array(
 "Форма сохранена",
 
 'duplicated_from_' =>
-"Взяты данные из:",
+"Данные взяты из:",
 
 'create_form' =>
 "Создать форму",
@@ -578,7 +578,7 @@ $lang = array(
 "End Date",
 
 'moderate' =>
-"Moderate",
+"На проверку",
 
 'form_field' =>
 "Form Field",
@@ -1238,107 +1238,107 @@ $lang = array(
 // -------------------------------------
 
 'no_notifications' =>
-"No Notifications currently exist.",
+"Шаблонов уведомлений ещё не создано.",
 
 'user' =>
-"User",
+"Пользователь",
 
 'admin' =>
-"Admin",
+"Администратор",
 
 'notification_edit_warning' =>
-"The following forms currently use this notification: <strong>%form_names%</strong>",
+"Формы, использующие данное уведомление: <strong>%form_names%</strong>",
 
 'new_notification' =>
-"New Notification",
+"Новый шаблон уведомления",
 
 'update_notification' =>
-"Update Notification",
+"Обновить шаблон уведомления",
 
 'create_notification' =>
-"Create Notification",
+"Создать шаблон уведомления",
 
 'allow_html' =>
-"Allow HTML",
+"Разрешить HTML",
 
 'wordwrap' =>
-"Word Wrap",
+"Автоперенос слов",
 
 'formatting_options' =>
-"Formatting Options",
+"Настройка  форматирования",
 
 'notification_label' =>
-"Notification Label",
+"Название уведомления",
 
 'notification_label_desc' =>
-"The full name of the Notification. Example: Submission Success",
+"Полное название уведомления. Например: Уведомление пользователя об отправке технического задания",
 
 'notification_name' =>
-"Notification Name",
+"Краткое название уведомления",
 
 'notification_name_desc' =>
-"The short name of the Notification.<br/>Single word, no spaces, underscores allowed.<br/>Example: submission_success",
+"Краткое имя уведомления.<br/>В одно слово, без пробелов, разделяя слова нижним подчёркиванием.<br/>Например: tech_doc_success_user",
 
 'from_email' =>
-"From Email",
+"Email отправителя письма уведомления",
 
 'from_email_desc' =>
-"The email address that will appear in the 'From' or your notification email.",
+"Данный адрес будет указан в графе 'Отправитель' письма.",
 
 'from_name' =>
-"From Name",
+"Имя отправителя",
 
 'from_name_desc' =>
-"The name that will appear in the 'From' or your notification email.",
+"Имя будет присвоено адресу отправителя.<br/>Например название компании или имя менеджера.",
 
 'reply_to_email' =>
-"Reply To Email",
+"Адрес обратного письма",
 
 'reply_to_email_desc' =>
-"This is the email address that the recipient will reply to when receiving this notification.",
+"На указанный адрес придёт ответ на высланное данным уведомлением письмо.",
 
 'email_subject' =>
-"Subject",
+"Тема письма",
 
 'email_subject_desc' =>
-"The subject line of the notification. The following variables are available: {my_custom_field}, {freeform_entry_id}, {entry_date}, {form_name}, {form_id}, {form_label}",
+"Можно использоват как текст, так и специальный теги: {my_custom_field}, {freeform_entry_id}, {entry_date}, {form_name}, {form_id}, {form_label}",
 
 'notification_description' =>
-"Description",
+"Описание",
 
 'notification_description_desc' =>
-"Describe the Notification.<br/>Helpful for keeping track of the purpose of the Notification.",
+"Для лучшего понимания назначения шаблона - опишите цели, для которых он создан.",
 
 'notification_edit_instructions' =>
-"These are templates that are used to format and generate email notifications to admins and/or users. Once you have created a notification template, you specify it when creating/editing forms in the control panel, or override it in your EE templates.",
+"Шаблоны используются для создания формата отправки уведомительного письма пользователю и/или администратору сайта. После создания шаблона - необходимо его выбрать в формах, для которых он создан. Формат письма можно переопределить в шаблоне страницы сайта.",
 
 'email_message' =>
-"Email Message",
+"Сообщение",
 
 'email_message_desc' =>
 "",
 
 'edit_notification_success' =>
-"Notification Saved",
+"Шаблон уведомления сохранён",
 
 'click_insert_custom_fields' =>
 "Click to insert your custom fields",
 
 'click_insert_standard_tags' =>
-"Click to insert standard tags",
+"Для добавления тега -  просто нажмите на него",
 
 'search' =>
-"Search",
+"Поиск",
 
 'default_notification' =>
-"Default Notification",
+"Стандартное уведомление",
 
 'default_notification_subject' =>
-"Someone has filled out form: {form_label}",
+"Пришло сообщение через форму: {form_label}",
 
 'default_notification_template' =>
-"Someone has filled out form: {form_label}
-Here are the details:
+"Пришло сообщение через форму: {form_label}
+Подробности:
 
 {all_form_fields_string}",
 
@@ -1346,25 +1346,25 @@ Here are the details:
 "Include Attachments",
 
 'include_attachments_desc' =>
-"Some Freeform fields allow file uploads. Enabling attachments emails those uploaded files with the notifications.",
+"Некоторые поля формы поддерживают прикрепление файла. Отображать в уведомлении приложения к письму?.",
 
 'uploads' =>
-"Uploads",
+"Файлы",
 
 'upload_count' =>
-"Upload count",
+"Количество файлов",
 
 'freeform_file_field_upload_count' =>
 "Freeform File Field Upload Count",
 
 'attachments' =>
-"Attachments",
+"Приложения",
 
 'attachment' =>
-"Attachment",
+"Приложение",
 
 'confirm_delete_notification' =>
-"Are you sure you want to permanently delete the notification?",
+"Восстановить уведомление после удаления нельзя, Точно удаляем?",
 
 // -------------------------------------
 //	templates
@@ -1374,13 +1374,13 @@ Here are the details:
 "Are you sure you want to permanently delete this Composer Template?",
 
 'no_templates' =>
-"No custom Composer templates currently exist.",
+"Шаблонов ещё не создано.",
 
 'template_edit_warning' =>
 "The following forms currently use this Composer Template: <strong>%form_names%</strong>",
 
 'new_template' =>
-"New Composer Template",
+"Создать новый шаблон формы",
 
 'update_template' =>
 "Update Template",
